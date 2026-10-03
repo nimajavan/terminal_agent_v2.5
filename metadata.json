@@ -1,0 +1,6 @@
+{
+  "name": "Linux Terminal Agent Studio (LTA Pro)",
+  "description": "Next-generation autonomous Linux Terminal Agent with natural language planning, bounded execution, real-time safety analyzer, doctor diagnostics, and bilingual Persian/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
